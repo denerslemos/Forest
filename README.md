@@ -19,9 +19,9 @@ The code is constructed using CMSSW_11_2_0_pre8. Setup:
 
 Download the code:
 
-`git clone https://github.com/denerslemos/GOForest.git`
+`git clone https://github.com/denerslemos/Forest.git`
 
-`cd GOForest/GOAnalyzer/test`
+`cd Forest/GOAnalyzer/test`
 
 and Run locally:
 
